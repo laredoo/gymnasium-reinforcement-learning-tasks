@@ -2,7 +2,7 @@
 
 This repository contains a collection of reinforcement learning tasks designed to facilitate learning and experimentation with the [Gymnasium](https://gymnasium.farama.org/) framework.
 
-We'll consider the following equations when solving these exercises:
+All the following explanations and equations come from [Reinforcement Learning: An Introduction book](http://incompleteideas.net/book/the-book-2nd.html).
 
 ### The Agent–Environment Interface
 
